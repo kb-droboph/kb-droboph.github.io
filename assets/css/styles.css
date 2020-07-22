@@ -1,0 +1,39 @@
+.highlight {
+    background-color: #fff34d;
+}
+
+a {
+  color: #15537c;
+}
+
+a:hover {
+  color: #646464;
+}
+
+#scrlTopBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+  font-size: 18px;
+  border: none;
+  outline: none;
+  background-color: #21252b;
+  color: white;
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 15px;
+}
+
+#scrlTopBtn:hover {
+  background-color: #555;
+}
+
+#keyword {
+  border-radius: 20px 0 0 20px;
+}
+
+#basic-addon2 {
+    border-radius: 0 20px 20px 0;
+}
